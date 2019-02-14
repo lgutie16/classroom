@@ -1,13 +1,13 @@
 {
-  "main.css": "/classroom/static/css/main.ebedd578.chunk.css",
-  "main.js": "/classroom/static/js/main.9c470945.chunk.js",
-  "main.js.map": "/classroom/static/js/main.9c470945.chunk.js.map",
+  "main.css": "/classroom/static/css/main.6fbc96ab.chunk.css",
+  "main.js": "/classroom/static/js/main.33f1063b.chunk.js",
+  "main.js.map": "/classroom/static/js/main.33f1063b.chunk.js.map",
   "runtime~main.js": "/classroom/static/js/runtime~main.e7df8636.js",
   "runtime~main.js.map": "/classroom/static/js/runtime~main.e7df8636.js.map",
   "static/js/2.0f0f1ed3.chunk.js": "/classroom/static/js/2.0f0f1ed3.chunk.js",
   "static/js/2.0f0f1ed3.chunk.js.map": "/classroom/static/js/2.0f0f1ed3.chunk.js.map",
   "index.html": "/classroom/index.html",
-  "precache-manifest.507d111d03a37feec2a6550556e99f19.js": "/classroom/precache-manifest.507d111d03a37feec2a6550556e99f19.js",
+  "precache-manifest.2934b32951a030b2ac892ddc521d6b3d.js": "/classroom/precache-manifest.2934b32951a030b2ac892ddc521d6b3d.js",
   "service-worker.js": "/classroom/service-worker.js",
-  "static/css/main.ebedd578.chunk.css.map": "/classroom/static/css/main.ebedd578.chunk.css.map"
+  "static/css/main.6fbc96ab.chunk.css.map": "/classroom/static/css/main.6fbc96ab.chunk.css.map"
 }
